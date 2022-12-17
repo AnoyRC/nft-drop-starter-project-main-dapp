@@ -1,19 +1,14 @@
 {
-    "name" : "Block_3",
-    "symbol" : "b3",
-    "image" : "2.png",
-    "properties":{
-        "files":[
-            {
-                "url":"2.png",
-                "type":"image/png"
-            }
-        ],
-        "creators": [
-            {
-                "address" : "GtkxiX7fmfaQWgktcNT5wayT5bCLycnKyveS99vZ1dva",
-                "share":100
-            }
-        ]
-    }
+	"name": "Remo",
+	"symbol": "REM",
+	"image": "2.png",
+	"properties": {
+		"files": [{ "url": "2.png", "type": "image/png" }],
+		"creators": [
+			{
+				"address": "GtkxiX7fmfaQWgktcNT5wayT5bCLycnKyveS99vZ1dva",
+				"share": 100
+			}
+		]
+	}
 }

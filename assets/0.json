@@ -1,19 +1,14 @@
 {
-    "name" : "Block_1",
-    "symbol" : "b1",
-    "image" : "0.png",
-    "properties":{
-        "files":[
-            {
-                "url":"0.png",
-                "type":"image/png"
-            }
-        ],
-        "creators": [
-            {
-                "address" : "GtkxiX7fmfaQWgktcNT5wayT5bCLycnKyveS99vZ1dva",
-                "share":100
-            }
-        ]
-    }
+	"name": "Ambi",
+	"symbol": "AMB",
+	"image": "0.png",
+	"properties": {
+		"files": [{ "url": "0.png", "type": "image/png" }],
+		"creators": [
+			{
+				"address": "GtkxiX7fmfaQWgktcNT5wayT5bCLycnKyveS99vZ1dva",
+				"share": 100
+			}
+		]
+	}
 }
